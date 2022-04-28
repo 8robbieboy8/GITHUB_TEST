@@ -1,0 +1,5 @@
+# 해당하는 데이터의 raw 까지 들어가서 주소를 복사해 와야한다. 
+(gitbub-> csv 파일 들어간 후 raw버튼 클릭 주소복사) 
+url = 'https://raw.githubusercontent.com/Myeong1234/python_lecture/main/COVID-19_Korean%20(1).csv'
+qwe_df = pd.read_csv(url, ',')
+qwe_df
