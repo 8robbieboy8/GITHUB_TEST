@@ -1,3 +1,3 @@
-class Kiwwom():
+class Kiwoom():
     def __init__(self):
         print('Kiwoom class 입니다.')
